@@ -1,0 +1,14 @@
+car_name,mpg,cylinders,displacement,horsepower,weight,AveragePrice,model,origin_city
+Chevrolet Chevelle Malibu,18,8,307,130,3504,1.7,70,US
+Buick Skylark 320,15,8,350,165,3693,1.75,70,US
+Plymouth Satellite,18,8,318,150,3436,1.58,70,US
+Citroen DS-21 Pallas,0,4,133,115,3090,1.57,70,Europe
+Toyota Corolla Mark ii,24,4,113,95,2372,1.82,70,Japan
+Datsun PL510,27,4,97,88,2130,1.01,70,Japan
+Volkswagen 1131 Deluxe Sedan,26,4,97,46,1835,1.38,70,Europe
+Peugeot 504,25,4,110,87,2672,1.29,70,Europe
+Audi 100 LS,24,4,107,90,2430,1.16,70,Europe
+Saab 99e,25,4,104,95,2375,1.17,70,Europe
+BMW 2002,26,4,121,113,2234,,70,Europe
+Datsun PL510,27,4,97,88,2130,,71,Japan
+Chevrolet Vega 2300,28,4,140,90,2264,,71,US
